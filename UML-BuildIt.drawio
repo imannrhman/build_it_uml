@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T04:39:58.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PjaRwGLgZLTE-MU8fvDo" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-31T06:34:47.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s2qtZuF54tYsI82MYOdN" version="20.5.1" type="github" pages="2">
   <diagram id="8pYdvf0Vjy8PGNL5Wu--" name="Use Case">
     <mxGraphModel dx="1310" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
           <mxGeometry x="600" y="890" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWr1Kji9oJV5c9_9Rl1m-58" value="Confirm Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="910" width="90" height="60" as="geometry" />
+          <mxGeometry x="290" y="900" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWr1Kji9oJV5c9_9Rl1m-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWr1Kji9oJV5c9_9Rl1m-57" target="rVxo1T5X09Oe69zh3RZC-28">
           <mxGeometry relative="1" as="geometry">
@@ -374,7 +374,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bUhFg7TCCN4sw5C-6Emz" name="Page-2">
+  <diagram id="bUhFg7TCCN4sw5C-6Emz" name="Activity Diagram - Login">
     <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
